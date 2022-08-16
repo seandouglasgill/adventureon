@@ -182,7 +182,7 @@ footer p {
 }
 
 .contactform {
-   
+   background-color: white;
    display: inline-block;
    text-align: left;
    margin-right: 590px;
@@ -191,7 +191,7 @@ footer p {
    border: 4px solid #333333;
    border-radius: 10px;
    box-shadow: 20px 20px 60px grey;
-   filter: opacity(88%);
+   filter: opacity(86%);
    min-width: 200px;
    margin-left: 8%;
 }
