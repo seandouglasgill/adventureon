@@ -168,7 +168,7 @@ footer p {
 .jumbotroncontact {
   background-size: cover;
   height: 875px;
-  background-image: linear-gradient(to bottom right, white 12%, transparent), url("file:///C:/Users/seang/Documents/webdev_projects/Website2/contact3.jpg");                                                                                              
+  background-image: linear-gradient(to bottom right, white 12%, transparent), url("/contact3.jpg");                                                                                              
   
 }
 
