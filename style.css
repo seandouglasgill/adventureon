@@ -42,6 +42,7 @@ a {
   background-image: url("\second_cover.jpg");
   background-size: cover; 
   overflow: hidden;
+  width: 100%;
 }
 .container {
   max-width: 940px;
@@ -132,6 +133,7 @@ main h1 {
   background-size: cover; 
   overflow: hidden;
   margin-bottom: 0;
+  width: 100%;
 }
 .container2 {
   margin: 0;
@@ -168,7 +170,8 @@ footer p {
 .jumbotroncontact {
   background-size: cover;
   height: 875px;
-  background-image: linear-gradient(to bottom right, white 12%, transparent), url("contact3.jpg");                                                                                              
+  background-image: linear-gradient(to bottom right, white 12%, transparent), url("contact3.jpg");
+  width: 100%;
   
 }
 
