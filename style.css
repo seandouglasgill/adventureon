@@ -4,6 +4,11 @@ html, body {
   padding: 0;
   width: 100vw;
 }
+main {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
 
 header{
   background-color: #333333;
