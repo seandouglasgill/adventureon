@@ -251,3 +251,11 @@ input [type="submit"]:hover {
 
 
 }
+
+.jumbotronblog {
+  background-size: cover;
+  height: 875px;
+  background-image: linear-gradient(to bottom right, white 12%, transparent), url("blog.jpg");
+  width: 100%;
+  
+}
