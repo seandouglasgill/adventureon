@@ -209,6 +209,7 @@ footer p {
    filter: opacity(78%);
    min-width: 200px;
    margin: 10px;
+   z-index: -1;
 
   
    
