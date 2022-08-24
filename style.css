@@ -17,6 +17,7 @@ header {
   top: 0;
   left: 0;
   width: 100vw;
+  box-shadow: 0px 20px 40px grey;
 }
 
 nav {
@@ -173,6 +174,7 @@ footer {
   width: 100vw;
   margin-top: 0;
   height: 50px;
+  box-shadow: 0px -20px 40px grey;
 }
 
 footer p {
