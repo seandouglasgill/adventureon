@@ -18,6 +18,7 @@ header {
   left: 0;
   width: 100vw;
   box-shadow: -10px 20px 50px black;
+  z-index: 2;
 }
 
 nav {
@@ -209,7 +210,7 @@ footer p {
    filter: opacity(78%);
    min-width: 200px;
    margin: 10px;
-   z-index: -1;
+   
 
   
    
