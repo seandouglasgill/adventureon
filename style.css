@@ -50,7 +50,7 @@ a {
 
 .jumbotron {
   height: 900px;
-  background-image: linear-gradient (to bottom, white 10%, transparent) url("\second_cover.jpg");
+  background-image: linear-gradient(to top, white 10%, transparent 30%), url("\second_cover.jpg");
   background-size: cover; 
   overflow: hidden;
   width: 100vw;
@@ -148,7 +148,7 @@ main h1 {
 
 .jumbotron2 {
   height: 910px;
-  background-image: linear-gradient(to bottom right, white 12%, transparent), url("\main_cover.jpg");
+  background-image: linear-gradient(to bottom, white 12%, transparent 80%), url("\main_cover.jpg");
   background-size: cover; 
   overflow: hidden;
   margin-bottom: 0;
