@@ -7,6 +7,7 @@ html, body {
 }
 body {
   min-height: 100vh;
+  overscroll-behavior: none;
 }
 main {
   width: 100%;
