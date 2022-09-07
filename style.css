@@ -65,7 +65,7 @@ a {
 .navlist:hover {
   display: inline-block;
   text-decoration: none;
-  padding: 20px;
+  padding-right: 20px;
   color: white;
   cursor: pointer;
   font-weight: 650;
