@@ -3,12 +3,20 @@ html, body {
   margin: 0;
   padding: 0;
   width: 100vw;
-  overflow-x: hidden;
+  overflow: hidden;
+  min-height: 100vh
 }
+
 body {
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
   min-height: 100vh;
-  overscroll-behavior: none;
+  overflow: auto;
+
 }
+
 main {
   width: 100%;
   margin: 0;
