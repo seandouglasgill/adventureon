@@ -27,6 +27,15 @@ header {
 
 }
 
+@media (max-width: 40em) {
+  header {
+  display: flex;
+    justify-content: center;
+  }
+
+
+}
+
 .logo {
   width: 80px;
   padding: 20px;
@@ -35,6 +44,7 @@ header {
 nav {
   margin: 0;
   margin-right: 5%;
+  max-height: 3.5em;
   
 }
 
@@ -46,7 +56,7 @@ a {
 .navlist {
   display: inline-block;
   text-decoration: none;
-  padding: 20px;
+  padding-right: 20px;
   color: white;
   cursor: pointer;
   transition: .1s;
@@ -200,7 +210,7 @@ footer p {
   color: white;
   padding-top: 15px;
   margin-top:0;
-
+  font-size: 1em;
 }
 
 
@@ -325,6 +335,5 @@ input[type="submit"]:hover {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  
   
 }
